@@ -1,2 +1,2 @@
 # webAPP
-Ejercicio en clase de aprender a usar GitHub
+Ejercicio en clase para aprender a usar GitHub
